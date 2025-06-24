@@ -255,13 +255,15 @@ public class VerDatos extends javax.swing.JFrame {
                     masco.getRaza(), masco.getAlergico(), masco.getAtencion_especial(),
                     masco.getUnDienio().getNombre(), masco.getUnDienio().getCelDuenio()
                 };
-
+                
+                //agrego el objeto al modelo de tabla
                 modeloTabla.addRow(objeto);
 
             }
 
         }
-
+        
+        //seteo el modelo de tabla en la tabla creada
         tablaMascotas.setModel(modeloTabla);
 
     }
