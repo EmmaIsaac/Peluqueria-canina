@@ -1,0 +1,14 @@
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/logica/Controladora.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/MascotaJpaController.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/PeluqueriaCanina.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/igu/Principal.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/logica/Mascota.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/DuenioJpaController.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/exceptions/PreexistingEntityException.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/exceptions/NonexistentEntityException.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/igu/CargaDatos.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/logica/Duenio.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/igu/ModificarDatos.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/exceptions/IllegalOrphanException.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/persistencia/ControladoraPersistencia.java
+/home/emma/NetBeansProjects/PeluqueriaCanina/src/main/java/com/mycompany/peluqueriacanina/igu/VerDatos.java
