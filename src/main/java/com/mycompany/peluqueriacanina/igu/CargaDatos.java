@@ -244,6 +244,7 @@ public class CargaDatos extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnLimpiarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLimpiarActionPerformed
+       //dejo todos los campos en blanco
        txtNombre.setText("");
        txtRaza.setText("");
        txtColor.setText("");
