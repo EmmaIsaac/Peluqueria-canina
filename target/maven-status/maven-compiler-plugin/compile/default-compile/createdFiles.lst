@@ -1,3 +1,4 @@
+com/mycompany/peluqueriacanina/igu/Principal$3.class
 com/mycompany/peluqueriacanina/PeluqueriaCanina.class
 com/mycompany/peluqueriacanina/logica/Mascota_.class
 com/mycompany/peluqueriacanina/igu/CargaDatos$1.class
@@ -5,6 +6,7 @@ com/mycompany/peluqueriacanina/persistencia/exceptions/PreexistingEntityExceptio
 com/mycompany/peluqueriacanina/igu/VerDatos.class
 com/mycompany/peluqueriacanina/igu/Principal$1.class
 com/mycompany/peluqueriacanina/igu/VerDatos$2.class
+com/mycompany/peluqueriacanina/igu/VerDatos$5.class
 com/mycompany/peluqueriacanina/igu/ModificarDatos$1.class
 com/mycompany/peluqueriacanina/logica/Controladora.class
 com/mycompany/peluqueriacanina/igu/CargaDatos.class

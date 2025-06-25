@@ -276,6 +276,14 @@ public class CargaDatos extends javax.swing.JFrame {
         JDialog dialog = optionPane.createDialog("Guardado Exitoso");
         dialog.setAlwaysOnTop(true);
         dialog.setVisible(true);
+        
+        //cargar pantalla de datos de nuevo
+        VerDatos pantalla = new VerDatos();
+        pantalla.setVisible(true);
+        pantalla.setLocationRelativeTo(null);
+                
+        //cerrar ventana
+        this.dispose();   
                 
     }//GEN-LAST:event_btnGuardarActionPerformed
 
